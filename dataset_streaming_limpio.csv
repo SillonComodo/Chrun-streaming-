@@ -1,0 +1,246 @@
+id_cliente,plataforma,duracion_plan,duracion_meses,tipo_plan,mes_inicio,tiene_fecha_inicio,ultima_conexion,horas_consumidas,churn
+CLIENTE_0001,MAX,1 año,12,largo,11,0,7,163.3,0
+CLIENTE_0002,MAX,1 año,12,largo,5,1,122,35.6,1
+CLIENTE_0003,MAX,6 meses,6,largo,9,1,44,9.4,1
+CLIENTE_0004,MAX,1 mes,1,corto,2,1,136,1.4,1
+CLIENTE_0005,MAX,1 año,12,largo,8,1,8,94.0,0
+CLIENTE_0006,MAX,3 meses,3,medio,4,1,29,10.6,0
+CLIENTE_0007,Crunchyroll,1 año,12,largo,5,1,50,78.2,1
+CLIENTE_0008,Crunchyroll,1 año,12,largo,5,1,132,79.6,1
+CLIENTE_0009,Crunchyroll,1 año,12,largo,5,1,151,82.6,1
+CLIENTE_0010,Crunchyroll,1 año,12,largo,11,1,19,166.1,0
+CLIENTE_0011,Crunchyroll,1 año,12,largo,5,1,104,19.2,1
+CLIENTE_0012,Paramount,1 año,12,largo,11,0,11,156.3,0
+CLIENTE_0013,Paramount,1 año,12,largo,11,0,24,118.1,0
+CLIENTE_0014,Paramount,1 año,12,largo,11,0,21,121.3,0
+CLIENTE_0015,Amazon,1 mes,1,corto,1,1,129,8.6,1
+CLIENTE_0016,Amazon,1 año,12,largo,11,0,8,131.9,0
+CLIENTE_0017,Amazon,1 año,12,largo,5,1,160,12.3,1
+CLIENTE_0018,Amazon,1 año,12,largo,9,1,22,121.1,0
+CLIENTE_0019,VIX Premium,3 meses,3,medio,1,1,82,6.3,1
+CLIENTE_0020,VIX Premium,1 año,12,largo,6,1,2,174.8,0
+CLIENTE_0021,VIX Premium,1 año,12,largo,9,1,24,141.7,0
+CLIENTE_0022,VIX Premium,1 año,12,largo,11,1,12,71.6,0
+CLIENTE_0023,VIX Premium,1 año,12,largo,6,1,6,107.1,0
+CLIENTE_0024,Amazon,1 año,12,largo,2,1,2,192.9,0
+CLIENTE_0025,Amazon,1 año,12,largo,11,0,28,176.2,0
+CLIENTE_0026,Amazon,1 año,12,largo,2,1,21,123.8,0
+CLIENTE_0027,Amazon,1 año,12,largo,10,1,1,61.8,0
+CLIENTE_0028,Amazon,3 meses,3,medio,1,1,87,6.6,1
+CLIENTE_0029,Amazon,3 meses,3,medio,2,1,51,12.6,1
+CLIENTE_0030,Amazon,1 año,12,largo,9,1,29,60.9,0
+CLIENTE_0031,Amazon,1 año,12,largo,11,0,12,158.2,0
+CLIENTE_0032,Amazon,1 año,12,largo,6,1,25,106.0,0
+CLIENTE_0033,Crunchyroll,3 meses,3,medio,2,1,17,22.3,0
+CLIENTE_0034,Crunchyroll,1 año,12,largo,11,0,27,72.9,0
+CLIENTE_0035,Crunchyroll,1 año,12,largo,7,1,27,129.2,0
+CLIENTE_0036,Crunchyroll,1 año,12,largo,9,1,10,75.7,0
+CLIENTE_0037,Crunchyroll,1 año,12,largo,7,1,28,62.1,0
+CLIENTE_0038,MAX,3 meses,3,medio,4,1,28,30.5,0
+CLIENTE_0039,MAX,3 meses,3,medio,5,1,16,12.6,0
+CLIENTE_0040,MAX,3 meses,3,medio,4,1,15,22.9,0
+CLIENTE_0041,Disney,1 mes,1,corto,11,1,80,2.5,1
+CLIENTE_0042,Disney,1 mes,1,corto,11,1,137,4.1,1
+CLIENTE_0043,Disney,1 mes,1,corto,11,1,84,5.2,1
+CLIENTE_0044,Disney,1 mes,1,corto,11,1,93,1.3,1
+CLIENTE_0045,Amazon,3 meses,3,medio,2,1,160,16.2,1
+CLIENTE_0046,Amazon,1 año,12,largo,8,1,80,43.4,1
+CLIENTE_0047,Amazon,3 meses,3,medio,2,1,164,13.4,1
+CLIENTE_0048,Amazon,1 año,12,largo,8,1,21,55.8,0
+CLIENTE_0049,Crunchyroll,1 año,12,largo,7,1,9,95.4,0
+CLIENTE_0050,Crunchyroll,1 año,12,largo,7,1,7,143.7,0
+CLIENTE_0051,Crunchyroll,1 año,12,largo,8,1,18,122.1,0
+CLIENTE_0052,Crunchyroll,1 año,12,largo,7,1,4,134.5,0
+CLIENTE_0053,Crunchyroll,1 año,12,largo,7,1,25,133.0,0
+CLIENTE_0054,Disney,1 mes,1,corto,3,1,89,4.1,1
+CLIENTE_0055,Disney,1 mes,1,corto,1,1,14,7.3,0
+CLIENTE_0056,Disney,1 mes,1,corto,3,1,38,4.1,1
+CLIENTE_0057,Disney,1 mes,1,corto,3,1,119,3.1,1
+CLIENTE_0058,Crunchyroll,1 año,12,largo,7,1,21,106.2,0
+CLIENTE_0059,Crunchyroll,1 año,12,largo,11,1,2,183.4,0
+CLIENTE_0060,Crunchyroll,1 año,12,largo,7,1,20,131.5,0
+CLIENTE_0061,Crunchyroll,1 año,12,largo,7,1,28,138.3,0
+CLIENTE_0062,Crunchyroll,1 año,12,largo,2,1,15,67.8,0
+CLIENTE_0063,VIX Premium,1 año,12,largo,7,1,28,191.0,0
+CLIENTE_0064,VIX Premium,1 año,12,largo,11,0,7,106.8,0
+CLIENTE_0065,VIX Premium,3 meses,3,medio,4,1,12,48.1,0
+CLIENTE_0066,VIX Premium,1 año,12,largo,11,1,29,147.8,0
+CLIENTE_0067,Amazon Prime,3 meses,3,medio,1,1,37,10.5,1
+CLIENTE_0068,Amazon,1 año,12,largo,11,1,15,200.2,0
+CLIENTE_0069,Amazon,1 año,12,largo,10,1,3,126.8,0
+CLIENTE_0070,Amazon,1 año,12,largo,9,1,14,207.7,0
+CLIENTE_0071,Disney Premium,1 año,12,largo,1,1,17,174.7,0
+CLIENTE_0072,Disney,2 meses,2,medio,3,1,79,6.8,1
+CLIENTE_0073,Crunchyroll,1 año,12,largo,7,1,8,226.8,0
+CLIENTE_0074,Crunchyroll,1 año,12,largo,8,1,4,80.2,0
+CLIENTE_0075,VIX Premium,1 año,12,largo,11,0,2,114.9,0
+CLIENTE_0076,VIX Premium,1 año,12,largo,11,1,6,160.2,0
+CLIENTE_0077,VIX Premium,1 mes,1,corto,8,1,22,4.2,0
+CLIENTE_0078,VIX Premium,1 mes,1,corto,8,1,10,5.7,0
+CLIENTE_0079,Crunchyroll,1 año,12,largo,9,1,4,172.3,0
+CLIENTE_0080,Crunchyroll,1 año,12,largo,10,1,22,94.3,0
+CLIENTE_0081,Crunchyroll,3 meses,3,medio,4,1,29,32.4,0
+CLIENTE_0082,Crunchyroll,1 año,12,largo,11,1,18,87.8,0
+CLIENTE_0083,Netflix,1 mes,1,corto,11,1,73,5.8,1
+CLIENTE_0084,Netflix,1 mes,1,corto,11,1,43,5.1,1
+CLIENTE_0085,Netflix,1 mes,1,corto,11,1,124,3.7,1
+CLIENTE_0086,Netflix,1 mes,1,corto,11,1,77,6.7,1
+CLIENTE_0087,Netflix,1 mes,1,corto,11,1,44,2.5,1
+CLIENTE_0088,Netflix,2 meses,2,medio,5,1,8,24.6,0
+CLIENTE_0089,Amazon,1 mes,1,corto,12,1,69,2.8,1
+CLIENTE_0090,Amazon,1 año,12,largo,1,1,21,102.9,0
+CLIENTE_0091,Amazon,1 año,12,largo,9,1,16,196.9,0
+CLIENTE_0092,Amazon Prime,1 año,12,largo,8,1,13,169.6,0
+CLIENTE_0093,Amazon,1 año,12,largo,10,1,18,132.2,0
+CLIENTE_0094,Amazon,3 meses,3,medio,6,1,15,37.3,0
+CLIENTE_0095,Amazon,1 año,12,largo,2,1,21,77.8,0
+CLIENTE_0096,Amazon,3 meses,3,medio,10,1,21,14.6,0
+CLIENTE_0097,Crunchyroll,3 meses,3,medio,10,1,160,7.8,1
+CLIENTE_0098,Disney,1 año,12,largo,1,1,1,92.9,0
+CLIENTE_0099,Amazon,1 año,12,largo,8,1,28,163.1,0
+CLIENTE_0100,Crunchyroll,1 año,12,largo,8,1,25,57.6,0
+CLIENTE_0101,Crunchyroll,1 año,12,largo,9,1,18,78.5,0
+CLIENTE_0102,Crunchyroll,1 año,12,largo,3,1,110,38.9,1
+CLIENTE_0103,Amazon,1 año,12,largo,10,1,29,213.4,0
+CLIENTE_0104,Paramount,3 meses,3,medio,3,1,15,12.9,0
+CLIENTE_0105,Crunchyroll,1 año,12,largo,1,1,15,155.4,0
+CLIENTE_0106,Amazon,1 año,12,largo,8,1,13,73.0,0
+CLIENTE_0107,MAX,1 año,12,largo,9,1,17,172.3,0
+CLIENTE_0108,VIX Premium,3 meses,3,medio,8,1,9,31.5,0
+CLIENTE_0109,Crunchyroll,1 año,12,largo,2,1,12,166.9,0
+CLIENTE_0110,Amazon,1 año,12,largo,11,1,26,72.0,0
+CLIENTE_0111,Crunchyroll,1 mes,1,corto,8,1,92,5.3,1
+CLIENTE_0112,VIX Premium,1 mes,1,corto,2,1,58,1.1,1
+CLIENTE_0113,Amazon,1 año,12,largo,9,1,25,61.8,0
+CLIENTE_0114,Crunchyroll,1 año,12,largo,11,1,28,119.5,0
+CLIENTE_0115,Crunchyroll,1 mes,1,corto,10,1,32,1.6,1
+CLIENTE_0116,Amazon,1 año,12,largo,5,1,24,167.5,0
+CLIENTE_0117,Amazon,1 mes,1,corto,10,1,81,3.3,1
+CLIENTE_0118,MAX,1 año,12,largo,9,1,2,93.4,0
+CLIENTE_0119,Amazon,3 meses,3,medio,11,1,97,4.6,1
+CLIENTE_0120,Crunchyroll,1 mes,1,corto,5,1,168,7.2,1
+CLIENTE_0121,Crunchyroll,1 año,12,largo,3,1,27,88.1,0
+CLIENTE_0122,Disney,1 año,12,largo,1,1,1,106.2,0
+CLIENTE_0123,Disney,1 mes,1,corto,11,1,71,3.2,1
+CLIENTE_0124,Disney,1 año,12,largo,8,1,1,73.6,0
+CLIENTE_0125,Netflix,1 mes,1,corto,7,1,176,7.3,1
+CLIENTE_0126,Netflix,1 mes,1,corto,10,1,133,1.5,1
+CLIENTE_0127,Crunchyroll,1 mes,1,corto,1,1,97,2.0,1
+CLIENTE_0128,MAX,1 mes,1,corto,11,1,157,1.9,1
+CLIENTE_0129,Amazon,1 año,12,largo,2,1,6,125.1,0
+CLIENTE_0130,VIX Premium,1 mes,1,corto,4,1,140,2.2,1
+CLIENTE_0131,MAX,1 año,12,largo,8,1,17,188.3,0
+CLIENTE_0132,Amazon,3 meses,3,medio,2,1,29,33.8,0
+CLIENTE_0133,Paramount,3 meses,3,medio,1,1,96,7.3,1
+CLIENTE_0134,Netflix,1 mes,1,corto,12,1,61,3.7,1
+CLIENTE_0135,Crunchyroll,1 año,12,largo,3,1,9,138.7,0
+CLIENTE_0136,Amazon,1 mes,1,corto,5,1,42,0.6,1
+CLIENTE_0137,VIX Premium,1 año,12,largo,3,1,16,66.0,0
+CLIENTE_0138,Crunchyroll,1 año,12,largo,4,1,22,78.8,0
+CLIENTE_0139,Amazon Prime,3 meses,3,medio,8,1,99,9.0,1
+CLIENTE_0140,Amazon,3 meses,3,medio,8,1,34,15.5,1
+CLIENTE_0141,Crunchyroll,1 año,12,largo,5,1,16,190.1,0
+CLIENTE_0142,Amazon,1 mes,1,corto,5,1,87,0.7,1
+CLIENTE_0143,Paramount,3 meses,3,medio,11,1,30,6.8,1
+CLIENTE_0144,Crunchyroll,1 año,12,largo,2,1,16,132.0,0
+CLIENTE_0145,Amazon,1 mes,1,corto,9,1,115,0.8,1
+CLIENTE_0146,Crunchyroll,1 año,12,largo,2,1,5,92.9,0
+CLIENTE_0147,Amazon,1 año,12,largo,4,1,5,111.5,0
+CLIENTE_0148,VIX Premium,1 año,12,largo,2,1,176,66.6,1
+CLIENTE_0149,VIX Premium,1 año,12,largo,4,1,2,54.0,0
+CLIENTE_0150,Paramount,1 año,12,largo,12,1,1,116.6,0
+CLIENTE_0151,Paramount,1 año,12,largo,12,1,12,75.0,0
+CLIENTE_0152,Amazon,1 año,12,largo,2,1,17,134.3,0
+CLIENTE_0153,VIX Premium,1 año,12,largo,10,1,4,136.6,0
+CLIENTE_0154,Netflix,1 año,12,largo,2,1,25,122.1,0
+CLIENTE_0155,VIX Premium,1 año,12,largo,10,1,18,87.4,0
+CLIENTE_0156,Disney,1 año,12,largo,3,1,13,134.3,0
+CLIENTE_0157,Amazon,1 año,12,largo,9,1,22,72.7,0
+CLIENTE_0158,Crunchyroll,3 meses,3,medio,9,1,57,27.7,1
+CLIENTE_0159,VIX Premium,1 mes,1,corto,9,1,54,2.5,1
+CLIENTE_0160,Paramount,1 mes,1,corto,8,1,71,9.8,1
+CLIENTE_0161,Crunchyroll,1 mes,1,corto,2,1,175,7.3,1
+CLIENTE_0162,Disney,3 meses,3,medio,2,1,170,6.5,1
+CLIENTE_0163,Netflix,1 año,12,largo,7,1,19,155.6,0
+CLIENTE_0164,Netflix,1 año,12,largo,5,1,4,108.7,0
+CLIENTE_0165,Amazon,1 año,12,largo,12,1,26,92.4,0
+CLIENTE_0166,Crunchyroll,1 año,12,largo,11,1,90,82.8,1
+CLIENTE_0167,VIX Premium,1 año,12,largo,1,1,25,149.2,0
+CLIENTE_0168,Paramount,1 año,12,largo,12,1,15,178.8,0
+CLIENTE_0169,Disney Premium,1 año,12,largo,2,1,25,131.3,0
+CLIENTE_0170,MAX,1 año,12,largo,8,1,16,186.1,0
+CLIENTE_0171,Paramount,1 año,12,largo,12,1,26,73.7,0
+CLIENTE_0172,Amazon,1 año,12,largo,2,1,4,208.8,0
+CLIENTE_0173,Amazon,1 año,12,largo,1,1,16,86.1,0
+CLIENTE_0174,Disney,3 meses,3,medio,3,1,25,32.9,0
+CLIENTE_0175,Disney,1 año,12,largo,10,1,22,204.9,0
+CLIENTE_0176,Crunchyroll,1 año,12,largo,9,1,27,197.9,0
+CLIENTE_0177,Amazon,1 año,12,largo,5,1,17,140.6,0
+CLIENTE_0178,Netflix,1 año,12,largo,8,1,10,89.2,0
+CLIENTE_0179,Crunchyroll,1 año,12,largo,12,1,1,153.3,0
+CLIENTE_0180,Amazon,1 año,12,largo,12,1,22,160.8,0
+CLIENTE_0181,Disney,1 año,12,largo,2,1,17,51.4,0
+CLIENTE_0182,MAX,1 año,12,largo,9,1,7,51.2,0
+CLIENTE_0183,Amazon,1 año,12,largo,4,1,19,164.7,0
+CLIENTE_0184,Amazon,1 mes,1,corto,7,1,80,6.5,1
+CLIENTE_0185,Amazon,3 meses,3,medio,3,1,98,17.6,1
+CLIENTE_0186,Amazon,1 mes,1,corto,2,1,140,1.0,1
+CLIENTE_0187,Crunchyroll,1 año,12,largo,7,1,4,117.2,0
+CLIENTE_0188,Amazon,1 mes,1,corto,8,1,176,4.1,1
+CLIENTE_0189,Amazon,1 año,12,largo,5,1,9,118.8,0
+CLIENTE_0190,Crunchyroll,1 año,12,largo,9,1,15,109.5,0
+CLIENTE_0191,Disney,3 meses,3,medio,8,1,65,20.5,1
+CLIENTE_0192,Crunchyroll,1 año,12,largo,11,1,14,128.0,0
+CLIENTE_0193,Amazon,1 mes,1,corto,7,1,144,7.2,1
+CLIENTE_0194,Amazon,1 año,12,largo,3,1,3,84.4,0
+CLIENTE_0195,MAX,1 año,12,largo,8,1,7,61.9,0
+CLIENTE_0196,Crunchyroll,1 año,12,largo,7,1,3,140.0,0
+CLIENTE_0197,VIX Premium,1 mes,1,corto,10,1,142,3.4,1
+CLIENTE_0198,Amazon,3 meses,3,medio,5,1,24,27.4,0
+CLIENTE_0199,Netflix,1 año,12,largo,4,1,23,139.0,0
+CLIENTE_0200,Crunchyroll,1 mes,1,corto,11,1,160,3.4,1
+CLIENTE_0201,Amazon Prime,1 año,12,largo,5,1,11,200.0,0
+CLIENTE_0202,Crunchyroll,1 año,12,largo,8,1,15,123.6,0
+CLIENTE_0203,Disney,1 año,12,largo,10,1,20,105.5,0
+CLIENTE_0204,Crunchyroll,1 año,12,largo,5,1,11,165.9,0
+CLIENTE_0205,VIX Premium,1 año,12,largo,7,1,10,173.6,0
+CLIENTE_0206,Disney,1 año,12,largo,10,1,38,48.3,1
+CLIENTE_0207,Amazon,1 año,12,largo,5,1,28,151.8,0
+CLIENTE_0208,MAX,3 meses,3,medio,9,1,30,15.9,1
+CLIENTE_0209,Disney,1 año,12,largo,2,1,3,82.9,0
+CLIENTE_0210,VIX Premium,1 año,12,largo,11,1,10,121.1,0
+CLIENTE_0211,Amazon,1 año,12,largo,12,1,1,155.9,0
+CLIENTE_0212,Crunchyroll,3 meses,3,medio,5,1,19,30.5,0
+CLIENTE_0213,Amazon,1 mes,1,corto,8,1,44,5.4,1
+CLIENTE_0214,MAX,1 año,12,largo,12,1,1,170.7,0
+CLIENTE_0215,Crunchyroll,1 año,12,largo,5,1,27,125.6,0
+CLIENTE_0216,Amazon,1 año,12,largo,2,1,15,134.3,0
+CLIENTE_0217,Crunchyroll,1 mes,1,corto,11,1,144,4.9,1
+CLIENTE_0218,Crunchyroll,1 año,12,largo,7,1,8,125.5,0
+CLIENTE_0219,Amazon,3 meses,3,medio,2,1,18,25.8,0
+CLIENTE_0220,Disney,3 meses,3,medio,5,1,5,31.0,0
+CLIENTE_0221,VIX Premium,1 año,12,largo,8,1,8,203.7,0
+CLIENTE_0222,Crunchyroll,1 año,12,largo,10,1,23,214.0,0
+CLIENTE_0223,Amazon,1 año,12,largo,11,1,21,110.8,0
+CLIENTE_0224,Crunchyroll,1 año,12,largo,9,1,26,166.6,0
+CLIENTE_0225,Amazon,1 mes,1,corto,7,1,137,3.7,1
+CLIENTE_0226,VIX Premium,1 año,12,largo,12,1,11,105.2,0
+CLIENTE_0227,VIX Premium,1 año,12,largo,9,1,20,85.4,0
+CLIENTE_0228,Disney Premium,1 año,12,largo,3,1,23,125.9,0
+CLIENTE_0229,Amazon,1 año,12,largo,5,1,59,70.5,1
+CLIENTE_0230,Amazon,1 mes,1,corto,1,1,142,3.6,1
+CLIENTE_0231,Crunchyroll,1 año,12,largo,8,1,10,93.3,0
+CLIENTE_0232,Amazon,1 año,12,largo,4,1,29,109.5,0
+CLIENTE_0233,Crunchyroll,1 año,12,largo,3,1,83,39.7,1
+CLIENTE_0234,Netflix,1 año,12,largo,3,1,24,179.0,0
+CLIENTE_0235,Disney,1 año,12,largo,12,1,14,108.1,0
+CLIENTE_0236,Crunchyroll,1 año,12,largo,11,1,16,77.2,0
+CLIENTE_0237,Amazon,3 meses,3,medio,4,1,11,20.1,0
+CLIENTE_0238,VIX Premium,1 año,12,largo,3,1,9,99.4,0
+CLIENTE_0239,Paramount,1 mes,1,corto,4,1,149,5.7,1
+CLIENTE_0240,Crunchyroll,1 año,12,largo,1,1,8,141.4,0
+CLIENTE_0241,Crunchyroll,1 mes,1,corto,7,1,58,1.6,1
+CLIENTE_0242,Crunchyroll,3 meses,3,medio,8,1,6,13.7,0
+CLIENTE_0243,Amazon,1 mes,1,corto,10,1,56,8.3,1
+CLIENTE_0244,VIX Premium,1 año,12,largo,5,1,13,160.6,0
+CLIENTE_0245,MAX,1 año,12,largo,11,1,11,59.3,0
